@@ -1,0 +1,14 @@
+{
+    "name": "assignment",
+    "version": "1.0.0",
+    "description": "",
+    "main": "angular-chart.min.js",
+    "scripts": {
+
+    },
+    "dependencies": {
+        "express": "^4.13.4"
+    },
+    "author": "",
+    "license": "ISC"
+}
